@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Snipping Tool Extension",
+  "name": "Snipz",
   "version": "1.0",
   "permissions": [
     "tabs",
